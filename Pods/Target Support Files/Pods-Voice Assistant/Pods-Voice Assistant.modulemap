@@ -1,0 +1,6 @@
+framework module Pods_Voice_Assistant {
+  umbrella header "Pods-Voice Assistant-umbrella.h"
+
+  export *
+  module * { export * }
+}
